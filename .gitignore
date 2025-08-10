@@ -1,0 +1,5 @@
+# Build directory with downloaded sources and compiled objects
+build/
+
+# Compiled kernel modules
+*.ko
